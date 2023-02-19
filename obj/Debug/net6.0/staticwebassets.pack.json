@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WebApiWithVueSample\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApiWithVueSample.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApiWithVueSample.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WebApiWithVueSample\\wwwroot\\css\\app.0da30952.css",
+      "PackagePath": "staticwebassets\\css\\app.0da30952.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WebApiWithVueSample\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WebApiWithVueSample\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WebApiWithVueSample\\wwwroot\\js\\app.23254d52.js",
+      "PackagePath": "staticwebassets\\js\\app.23254d52.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WebApiWithVueSample\\wwwroot\\js\\app.23254d52.js.map",
+      "PackagePath": "staticwebassets\\js\\app.23254d52.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WebApiWithVueSample\\wwwroot\\js\\chunk-vendors.0acd69dc.js",
+      "PackagePath": "staticwebassets\\js\\chunk-vendors.0acd69dc.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WebApiWithVueSample\\wwwroot\\js\\chunk-vendors.0acd69dc.js.map",
+      "PackagePath": "staticwebassets\\js\\chunk-vendors.0acd69dc.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApiWithVueSample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApiWithVueSample.props",
+      "PackagePath": "build\\WebApiWithVueSample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApiWithVueSample.props",
+      "PackagePath": "buildMultiTargeting\\WebApiWithVueSample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApiWithVueSample.props",
+      "PackagePath": "buildTransitive\\WebApiWithVueSample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
